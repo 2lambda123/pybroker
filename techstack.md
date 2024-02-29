@@ -4,10 +4,10 @@
 2lambda123/pybroker is built on the following main stack:
 
 - [Python](https://www.python.org) – Languages
-- [NumPy](http://www.numpy.org/) – Data Science Tools
 - [Matplotlib](http://matplotlib.org) – Charting Libraries
-- [pytest](http://pytest.org/latest/) – Testing Frameworks
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [pytest](http://pytest.org/latest/) – Testing Frameworks
+- [NumPy](http://www.numpy.org/) – Data Science Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -18,10 +18,10 @@ Full tech stack [here](/techstack.md)
 2lambda123/pybroker is built on the following main stack:
 
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png' alt='NumPy'/> [NumPy](http://www.numpy.org/) – Data Science Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/2993/2DZC4KaA_400x400.jpg' alt='Matplotlib'/> [Matplotlib](http://matplotlib.org) – Charting Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/4586/Lu99Qe0Z_400x400.png' alt='pytest'/> [pytest](http://pytest.org/latest/) – Testing Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/4586/Lu99Qe0Z_400x400.png' alt='pytest'/> [pytest](http://pytest.org/latest/) – Testing Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png' alt='NumPy'/> [NumPy](http://www.numpy.org/) – Data Science Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -32,7 +32,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [2lambda123/pybroker](https://github.com/2lambda123/pybroker)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|24<br/>Tools used|01/09/24 <br/>Report generated|
+|24<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
